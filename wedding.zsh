@@ -6,9 +6,9 @@ EOM
 
 chapel=`cat << Chapel
   (  \e[31mHappy Wedding!!\e[m )                                      
-   (_________    ___)                   \e[0;${col}m \ / \e[m         
-             \  /             _|_       \e[0;${col}m  *  \e[m         
-              \/               |        \e[0;${col}m / \ \e[m         
+   (_________    ___)                   \e[5;${col}m \ / \e[m         
+             \  /             _|_       \e[5;${col}m  *  \e[m         
+              \/               |        \e[5;${col}m / \ \e[m         
                               / \       \e[37m  |  \e[m               
                              /~~~\                                    
                             /~[+]~\                                   
